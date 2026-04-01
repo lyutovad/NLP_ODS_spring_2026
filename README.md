@@ -7,4 +7,6 @@
 - [Семинар 5 - Языковое моделирование (11.03.2026)](Seminar%205)
 - [Семинар 6 - seq2seq, NER (18.03.2026)](Seminar%206)
 - [Семинар 7 - Pretrained language models (25.03.2026)](Seminar%207)
+- [Семинар 8 - Large language models (01.04.2026)](Seminar%208)
+- [Семинар 9 - Pretrained language models (08.04.2026)](Seminar%209)
 - [Дополнительные ноутбуки](Additional%20)
