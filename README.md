@@ -11,4 +11,5 @@
 - [Семинар 9 - Bi and cross-encoders (08.04.2026)](Seminar%209)
 - [Семинар 10 - RAG (15.04.2026)](Seminar%210)
 - [Семинар 11 - Topic modeling (22.04.2026)](Seminar%211)
+- [Семинар 12 - NLP4code (29.04.2026)](Seminar%212)
 - [Дополнительные ноутбуки](Additional%20)
